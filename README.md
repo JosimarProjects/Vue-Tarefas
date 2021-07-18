@@ -1,24 +1,7 @@
 # tarefas-sistema
 
-## Project setup
-```
-npm install
-```
+Página criada com sistema VUE CLI com o conceito single page application, o objetivo foi criar um sistema para criar tarefas pendentes e poder atualiza-lás como concluidas, tudo isso utilizando apenas o front-end com o local storage
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Para acessar a pagína acesse:
+https://josimarprojects.github.io/Vue-Tarefas/
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
